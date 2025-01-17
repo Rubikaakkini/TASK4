@@ -69,4 +69,4 @@ AAAABBBCCDAA
 
 **THE OUTPUT OF THE FILE
 
-
+![Image](https://github.com/user-attachments/assets/5852e1ab-3cae-4691-90ca-0b8b99aaa8d5)
